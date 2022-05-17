@@ -2,6 +2,7 @@
 
 namespace Rais\Hello;
 
+use Rais\Hello\Contracts\SayHelloInterface;
 use RuntimeException;
 
 class SayHello implements SayHelloInterface
